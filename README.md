@@ -25,7 +25,7 @@ Architecture for the simulation : <br/>
 <br />
 <br />
 Setup Domain Controller in Virtual Box: <br/>
-<img src="DS" height="80%" width="80%" alt="loading"/>
+<img src="DS.png" height="80%" width="80%" alt="loading"/>
 <br />
 <br />
 Install Active Directory Software onto The domain controller :  <br/>
@@ -45,7 +45,7 @@ Run powershell Script in the VM to add users from text file <br/>
 <br />
 <br />
 Create Client VM <br/>
-<img src="Creating client VM.png" height="80%" width="80%" alt="loading"/>
+<img src="Creating Client VM.png" height="80%" width="80%" alt="loading"/>
 <br />
 <br />
 Verify the users that have been added can access the Network using credentials <br/>
